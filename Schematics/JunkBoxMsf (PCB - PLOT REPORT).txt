@@ -1,0 +1,131 @@
+PLOT REPORT
+-----------
+
+Report File    : Z:\home\pete\Projects\JunkBoxMsf\Schematics\JunkBoxMsf (PCB - PLOT REPORT).txt
+Report Written : Monday, April 06, 2015
+Project Path   : Z:\home\pete\Projects\JunkBoxMsf\Schematics\JunkBoxMsf.prj
+Design Path    : Z:\home\pete\Projects\JunkBoxMsf\Schematics\JunkBoxMsf.pcb
+Design Title   : Junk Box MSF Receiver
+Created        : 03/04/2015 14:34:43
+Last Saved     : 04/04/2015 18:53:03
+Editing Time   : 1150 min
+Units          : thou (precision 0)
+
+
+Device Settings
+===============
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 2.3 absolute in mm.
+    No zero suppression.
+
+PDF Settings
+============
+
+Combine Plots Yes
+Use Bookmarks Yes
+Component Details Yes
+Symbol Details Yes
+Link Net Names Yes
+View PDF No
+All Colours Black Yes
+
+
+
+Plots Output
+============
+
+    Plot Job: "Z:\home\pete\Projects\JunkBoxMsf\Schematics\JunkBoxMsf.mop"
+
+
+PDF Output
+==========
+
+    Layer
+    --------------
+    Top Silkscreen
+
+
+PDF Output
+==========
+
+    Layer
+    ----------
+    Top Copper
+
+
+PDF Output
+==========
+
+    Layer
+    -------------
+    Bottom Copper
+
+
+PDF Output
+==========
+
+    Layer
+    -----------------
+    Bottom Silkscreen
+
+
+NC Drill Output
+===============
+
+Z:\home\pete\Projects\JunkBoxMsf\Schematics\Plots\JunkBoxMsf - Drill Data - Through Hole.drl
+
+    Output:
+    --------------------------
+    Plated Round Drill Holes
+    Plated Slots
+    Plated Board Outlines
+
+    Tool   Size       Count    ID
+    -----------------------------
+    T001   00.024 in  2      I
+    T002   00.025 in  16     H
+    T003   00.026 in  70     G
+    T004   00.032 in  172    A
+    T005   00.034 in  6      E
+    T006   00.042 in  3      C
+    T007   00.043 in  33     F
+    T008   00.134 in  5      B
+    T009   00.154 in  1      D
+    -----------------------------
+    Total             308
+    -----------------------------
+    Tool   Size       Count    ID
+    -----------------------------
+    T001   00.025 in  1
+    -----------------------------
+    Total             1
+    -----------------------------
+
+PDF Output
+==========
+
+    Layer
+    -----
+
+Drill Ident Drawing
+===================
+
+    Drill  Plated  Size  Shape  ID
+    ------------------------------
+    32     Y       100   Round  A
+    134    Y       100   Round  B
+    42     Y       100   Round  C
+    154    Y       100   Round  D
+    34     Y       100   Round  E
+    43     Y       100   Round  F
+    26     Y       100   Round  G
+    25     Y       100   Round  H
+    24     Y       100   Round  I
+
+
+
+End Of Report.

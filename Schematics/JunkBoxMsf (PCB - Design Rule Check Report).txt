@@ -1,0 +1,83 @@
+Design Rule Check Report
+------------------------
+
+Report File    : Z:\home\pete\Projects\JunkBoxMsf\Schematics\JunkBoxMsf (PCB - Design Rule Check Report).txt
+Report Written : Saturday, April 04, 2015
+Project Path   : Z:\home\pete\Projects\JunkBoxMsf\Schematics\JunkBoxMsf.prj
+Design Path    : Z:\home\pete\Projects\JunkBoxMsf\Schematics\JunkBoxMsf.pcb
+Design Title   : Junk Box MSF Receiver
+Created        : 03/04/2015 14:34:43
+Last Saved     : 04/04/2015 18:50:55
+Editing Time   : 1035 min
+Units          : thou (precision 0)
+
+
+Results
+=======
+
+Gap in Net "+5V" between (11419,10519) and (10827,10664) 
+    +5V.
+Gap in Net "LCD_CONTRAST" between (10750,10150) and (10750,9850) 
+    LCD_CONTRAST.
+Gap in Net "N0012!2-Mcu-Lcd!" between (9900,12200) and (10300,12200) 
+    N0012!2-Mcu-Lcd!.
+Gap in Net "N0012!2-Mcu-Lcd!" between (11150,11000) and (11150,10300) 
+    N0012!2-Mcu-Lcd!.
+Gap in Net "N0058!2-Mcu-Lcd!" between (11050,10700) and (11050,9850) 
+    N0058!2-Mcu-Lcd!.
+Gap in Net "N0094!1-Power-References-Amplifiers!" between (8800,10200) and (9200,10200) 
+    N0094!1-Power-References-Amplifiers!.
+Gap in Net "N0094!1-Power-References-Amplifiers!" between (10850,9850) and (10850,10150) 
+    N0094!1-Power-References-Amplifiers!.
+Gap in Net "N0098!1-Power-References-Amplifiers!" between (8800,10100) and (9200,10100) 
+    N0098!1-Power-References-Amplifiers!.
+Gap in Net "N0098!1-Power-References-Amplifiers!" between (10650,9850) and (10650,10150) 
+    N0098!1-Power-References-Amplifiers!.
+
+Number of errors found : 9
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks         Yes
+Pads and Vias  Yes
+Shapes         Yes
+Text           Yes
+Board          Yes
+Drills         Yes
+Components     Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                   No
+Drill Backoff                    No
+Silkscreen Overlap               No
+Copper Text In Board             No
+Min Track Width                  Yes
+Min Annular Ring                 Yes
+Min Paste Size                   No
+Vias In Pads                     Yes
+Unplated Vias                    Yes
+Unplated Pads With Inner Tracks  No
+
+
+Nets
+
+=====
+
+Net Completion                Yes
+Dangling Tracks               Yes
+Net Track Length Differences  No
+
+
+
+End Of Report.

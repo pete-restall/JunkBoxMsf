@@ -1,0 +1,11 @@
+*.o
+
+Schematics/~*
+
+Simulations/GoertzelRange/GoertzelRange
+Simulations/MplabStimulus/MplabStimulus
+Simulations/MplabStimulus/stimulus.txt
+
+Firmware/JunkBoxMsf.X/**
+!Firmware/JunkBoxMsf.X/Makefile
+!Firmware/JunkBoxMsf.X/nbproject

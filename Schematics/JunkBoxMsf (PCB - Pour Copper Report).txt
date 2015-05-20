@@ -1,0 +1,15 @@
+Pour Copper Report
+------------------
+
+Report File    : Z:\home\pete\Projects\JunkBoxMsf\Schematics\JunkBoxMsf (PCB - Pour Copper Report).txt
+Report Written : Saturday, April 04, 2015
+Project Path   : Z:\home\pete\Projects\JunkBoxMsf\Schematics\JunkBoxMsf.prj
+Design Path    : Z:\home\pete\Projects\JunkBoxMsf\Schematics\JunkBoxMsf.pcb
+Design Title   : Junk Box MSF Receiver
+Created        : 03/04/2015 14:34:43
+Last Saved     : 04/04/2015 18:50:55
+Editing Time   : 1035 min
+Units          : thou (precision 0)
+
+
+End Of Report.
