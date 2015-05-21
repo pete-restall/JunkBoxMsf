@@ -170,7 +170,7 @@
         <property key="input-libraries" value=""/>
         <property key="linker-symbols" value=""/>
         <property key="map-file"
-                  value="/home/pete/Projects/JunkBoxMsf/Firmware/JunkBoxMsf.X/JunkBoxMsf.map"/>
+                  value="/home/pete/Projects/JunkBoxMsf/Firmware/JunkBoxMsf.X/dist/default/production/JunkBoxMsf.X.production.map"/>
         <property key="oXC16ld-extra-opts" value=""/>
         <property key="oXC16ld-fill-upper" value="0"/>
         <property key="oXC16ld-force-link" value="false"/>

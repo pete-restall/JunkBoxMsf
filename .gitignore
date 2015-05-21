@@ -1,6 +1,9 @@
 *.o
 
 Schematics/~*
+Schematics/Plots
+Schematics/JunkBoxMsf (*.txt
+Schematics/JunkBoxMsf (*.csv
 
 Simulations/GoertzelRange/GoertzelRange
 Simulations/MplabStimulus/MplabStimulus
