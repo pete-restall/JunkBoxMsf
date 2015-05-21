@@ -18,4 +18,5 @@ cp Schematics/Plots/*.drl "${RELEASE_DIR}/Hardware";
 mkdir -p "${RELEASE_DIR}/Firmware";
 cp Firmware/JunkBoxMsf.X/dist/default/production/* "${RELEASE_DIR}/Firmware";
 
-touch "${RELEASE_DIR}/RELEASE.txt";
+touch "${RELEASE_DIR}/RELEASE.md";
+cp LICENSE "${RELEASE_DIR}";
